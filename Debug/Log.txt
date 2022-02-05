@@ -11,3 +11,4 @@ System.IndexOutOfRangeException: Index was outside the bounds of the array.
    at GameLoop.Run()
    at Lindholm.Run()
    at Lindholm.RunSafelyIfNotDebug()
+
